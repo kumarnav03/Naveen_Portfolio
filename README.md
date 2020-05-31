@@ -13,7 +13,7 @@ Problem : We need to understand our customer's purchase behaviour and rank them 
   4. EDA
   5. Elbow method for Optimum clusters
   
-![a](https://github.com/kumarnav03/Customer_Segmentation/blob/master/Customer_Tableau.PNG)
+![](/images/Customer_Tableau.PNG)
   
 ## Domain - Finance
 ## Project 2 : [Fraud Detection](https://github.com/kumarnav03/Fraud_Detection)
