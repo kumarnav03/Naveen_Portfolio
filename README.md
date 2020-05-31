@@ -27,5 +27,21 @@ We aim to explore the options when we have highly skewed dataset to prepare the 
  3. How to deal with highly skewed dataset - Undersampling , Oversampling , SMOTE
  4. Perform Precision-Recall trade off
  
+## Domain - Entertainment 
+## Project 3 : [Predicting Movie Rating](https://github.com/kumarnav03/Data-Science-Python-/blob/master/Movie_Project.ipynb)
+### Overview
+Providing Statistical understanding for movie rating dataset.
+### Research shown:
+  1. EDA
+  2. Feature Selection - Chi-square test
 
+## Domain - Customer Service
+## Project 4 : [Customer Complaint Analysis](https://github.com/kumarnav03/Data-Science-Python-/blob/master/NYC311_project.ipynb)
+
+### Overview
+We aim to understand the customer complaints and its resolution time & Feature responsible for reolution time.
+
+### Research shown:
+  1. EDA
+  2. Hypothesis Testing & Chi-square testing
   
