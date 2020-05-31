@@ -13,5 +13,5 @@ Problem : We need to understand our customer's purchase behaviour and rank them 
   4. EDA
   5. Elbow method for Optimum clusters
   
-  ![alt text](https://github.com/kumarnav03/Customer_Segmentation/blob/master/Customer_Seg_Tableau.png)
+  ![alt text](https://github.com/kumarnav03/Customer_Segmentation/blob/master/Customer_Tableau.PNG)
   
